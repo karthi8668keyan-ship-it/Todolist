@@ -346,5 +346,6 @@ init();
 ```
 ## OUTPUT
 <img width="760" height="585" alt="Screenshot 2026-11-17 165857" src="https://github.com/user-attachments/assets/d7eeb9d3-07ab-4aab-9477-fcacdddccba5" />
+
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
